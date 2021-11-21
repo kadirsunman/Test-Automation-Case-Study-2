@@ -1,0 +1,17 @@
+22:04:50.624 [main] INFO  com.intuit.karate - karate.env system property was: null 
+22:04:55.270 [main] INFO  com.intuit.karate - karate.env system property was: null 
+22:04:55.321 [main] INFO  com.intuit.karate - karate.env system property was: null 
+22:04:55.333 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 35: name=RandomInt
+22:04:55.370 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 7: name=RandomString
+22:04:55.386 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 7: name=RandomString
+22:04:55.397 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 7: name=RandomString
+22:04:55.415 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 7: name=RandomString
+22:04:55.426 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 7: name=RandomString
+22:04:55.436 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 35: name=RandomInt
+22:04:56.087 [main] INFO  com.intuit.karate - karate.env system property was: null 
+22:04:56.091 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 59: name=Task4
+22:04:56.096 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 35: name=RandomInt
+22:04:56.109 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 7: name=RandomString
+22:04:56.116 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 7: name=RandomString
+22:04:56.123 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 7: name=RandomString
+22:04:56.133 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:callers/callers.feature - call by tag at line 35: name=RandomInt
